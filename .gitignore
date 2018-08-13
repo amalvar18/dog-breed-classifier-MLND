@@ -1,0 +1,15 @@
+.DS_Store
+dogImages/
+lfw/
+saved_models/weights.best.from_scratch.hdf5
+saved_models/weights.best.vgg16.hdf5
+saved_models/weights.best.from_inception.hdf5
+bottleneck_features/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+#Ipython Notebook
+.ipynb_checkpoints/
